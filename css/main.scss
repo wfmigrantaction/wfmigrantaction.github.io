@@ -4,3 +4,8 @@
 
 @import "blog";
 @import "layout";
+
+.nav a.active {
+  color: #000;
+  border-bottom: 1px solid #acacac;
+}
