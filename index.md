@@ -26,6 +26,9 @@ If you are interested in finding out more what we do or would like to <a href="/
 <a class="twitter-timeline" data-height="500" href="https://twitter.com/e17migrants?ref_src=twsrc%5Etfw">Tweets by e17migrants</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 <div class="col-md-6">
+<h1 style="text-align:center;">
+  <img src="/img/stella.png" style="height: 40px; border-radius: 20px;"/>
+</h1>
 <blockquote class="blockquote">
   <div>
   Walthamstow Migrants’ Action Group speaks to the best instincts of our local community - helping to guide and support those who are in need of assistance wherever they come from as fellow residents of our area, to ensure that all are treated with dignity and goodwill. I am proud that Walthamstow continues to mean welcome in both word and practice in this way.
