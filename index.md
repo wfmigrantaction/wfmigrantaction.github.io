@@ -18,7 +18,7 @@ If you are interested in finding out more what we do or would like to <a href="/
 
 <hr>
 
-<div class="row">
+<div class="row mb-3">
 <div class="col-md-3">
 <h1 style="text-align:center;">
   <a href="https://twitter.com/e17migrants" target="_blank"><img src="/img/twitter.svg" /></a>
