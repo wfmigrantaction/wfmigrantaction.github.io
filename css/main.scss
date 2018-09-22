@@ -17,6 +17,11 @@
   background-size: cover;
 }
 
+.navbar-light {
+  border-bottom: 1px solid #dadada;
+  margin-bottom: 30px;
+}
+
 @media (min-width: 992px) {
   #navbarCollapse {
     display: block!important;
