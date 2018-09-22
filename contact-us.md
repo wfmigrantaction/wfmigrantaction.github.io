@@ -5,9 +5,11 @@ title: Contact Us
 
 <div class="row">
 <div class="col-md" markdown="1">
-##### Email
-[migrantsactiongroup@gmail.com](mailto:migrantsactiongroup@gmail.com)
-
+<ul class="list-inline" style="width: 100%;">
+  <li class="list-inline-item"><a href="mailto:migrantsactiongroup@gmail.com"><img src="/img/mail.svg" alt="Email" style="width: 50px;" /> Email</a></li>
+  <li class="list-inline-item"><a href="https://facebook.com/WalthamstowMigrantsActionGroup" target="_blank"><img src="/img/facebook.svg" alt="Facebook" style="width: 50px;" /> Facebook</a></li>
+  <li class="list-inline-item"><a href="https://twitter.com/e17migrants" target="_blank"><img src="/img/twitter.svg" alt="Twitter" style="width: 50px;" /> Twitter</a></li>
+</ul>
 <Br>
 ##### Drop-in Support Centre
 10:00am-12:30pm every Friday  
@@ -68,8 +70,4 @@ Email: [e17migrantscentre@gmail.com](mailto:e17migrantscentre@gmail.com)
 ##### Reporting a crime
 If you or someone you know has been subject to a racist attack or hate crime, you can find instructions of how to report it [here](https://walthamforest.gov.uk/content/hate-crime). You can also download the [Self Evident](https://www.witnessconfident.org/self-evident-app) app to your phone, which allows you to effectively report crime and provide evidence to the police. 
 <hr>
-<ul class="list-inline" style="width: 100%; text-align: center; margin-top: 30px;">
-  <li class="list-inline-item"><a href="https://twitter.com/e17migrants"><img src="/img/twitter.svg" alt="Twitter" style="width: 50px;" /> Twitter</a></li>
-  <li class="list-inline-item"><a href="https://facebook.com/WalthamstowMigrantsActionGroup"><img src="/img/facebook.svg" alt="Facebook" style="width: 50px;" /> Facebook</a></li>
-</ul>
 

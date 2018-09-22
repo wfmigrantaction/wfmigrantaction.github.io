@@ -5,6 +5,16 @@ title: Events
 
 <div class="row mb-4">
 <div class="col-md">
+<h4>Past</h4>
+<br>
+{%- for p in site.categories['events'] -%}
+<h5>{{ p.title }}</h5>
+<small>{{ p.date | date_to_long_string }}</small>
+<img src="{{p.image}}" alt="{{p.title}}" style="width: 100%;"/>
+<hr>
+{%- endfor -%}
+</div>
+<div class="col-md">
 <h4>Upcoming</h4>
 <div style="text-align: left;">
 <div id="fb-root"></div>
@@ -27,14 +37,4 @@ title: Events
 </div>
 </div>
 
-<div class="col-md">
-<h4>Past</h4>
-<br>
-{%- for p in site.categories['events'] -%}
-<h5>{{ p.title }}</h5>
-<small>{{ p.date | date_to_long_string }}</small>
-<img src="{{p.image}}" alt="{{p.title}}" style="width: 100%;"/>
-<hr>
-{%- endfor -%}
-</div>
 </div>
