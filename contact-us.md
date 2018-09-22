@@ -69,5 +69,3 @@ Email: [e17migrantscentre@gmail.com](mailto:e17migrantscentre@gmail.com)
 <br>
 ##### Reporting a crime
 If you or someone you know has been subject to a racist attack or hate crime, you can find instructions of how to report it [here](https://walthamforest.gov.uk/content/hate-crime). You can also download the [Self Evident](https://www.witnessconfident.org/self-evident-app) app to your phone, which allows you to effectively report crime and provide evidence to the police. 
-<hr>
-
