@@ -9,13 +9,13 @@ Our visitors’ needs and welfare are our top priority. We always do our best to
 
 Drop in and see us:
 10:00am-12:30pm every Friday
-at The Salvation Army
+The Salvation Army
 434 Forest Road
 E17 4PY
 
-We are opposite Bus Stop BE. Click here for bus routes.
+We are opposite Bus Stop BE. Click [here](https://tfl.gov.uk/maps?Input=Salvation+Army+Walthamstow%2C+London%2C+UK&InputGeolocation=51.590694427490234%2C-0.021134300157427788) for bus routes.
 
 Telephone: 07496 394 175
-Email: e17migrantscentre@gmail.com
+Email: [e17migrantscentre@gmail.com](mailto:e17migrantscentre@gmail.com)
 
-Thanks to the Refugee and Migrant Forum of Essex and London and to Cassim Yacoobali for providing expert advice.
+Thanks to Nihad Fathi of the [Refugee and Migrant Forum of Essex and London](http://www.ramfel.org.uk/wordpress/) and to Cassim Yacoobali of Waltham Forest Immigration Bureau for providing expert advice.

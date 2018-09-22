@@ -69,7 +69,7 @@ Sophia Fergus
 </div>
 <div class="col-md" markdown="1">
 #### Treasurer
-...
+Clive Bower
 </div>
 </div>
 
@@ -78,21 +78,20 @@ Sophia Fergus
 
 <div class="trustees-list row">
 <div class="col-md" markdown="1">
-* Sarah Walker
-* Rod Holmes
-* Silvia Constantino
-</div>
-<div class="col-md" markdown="1">
-* Tommy Anderson
 * Amber Akram
-</div>
-<div class="col-md" markdown="1">
-* Ulrike Schmidt
-* Norman Minter
+* Silvia Constantino
 </div>
 <div class="col-md" markdown="1">
 * Lucy Duckworth
 * Russell Dunphy
+</div>
+<div class="col-md" markdown="1">
+* Rod Holmes
+* Shaukat Khan
+</div>
+<div class="col-md" markdown="1">
+* Norman Minter
+* Sarah Walker
 </div>
 </div>
 
