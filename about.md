@@ -16,6 +16,44 @@ As life becomes ever more difficult for migrants across London, the UK and the w
 
 Walthamstow Migrants’ Action Group is governed by a Board of Trustees. You can read our constitution here.
 
+
+#### Photos from the 2018 WMAG AGM
+<div class="image-gallery row">
+<div class="col-md" markdown="1">
+
+![2018 AGM](/img/AGM-7.jpg)
+
+</div>
+<div class="col-md" markdown="1">
+
+![2018 AGM](/img/AGM-3.jpg)
+
+</div>
+<div class="col-md" markdown="1">
+
+![2018 AGM](/img/AGM-4.jpg)
+
+</div>
+</div>
+
+<div class="image-gallery row">
+<div class="col-md" markdown="1">
+
+![2018 AGM](/img/AGM-1.jpg)
+
+</div>
+<div class="col-md" markdown="1">
+
+![2018 AGM](/img/AGM-5.jpg)
+
+</div>
+<div class="col-md" markdown="1">
+
+![2018 AGM](/img/AGM-6.jpg)
+
+</div>
+</div>
+
 <div class="officers-list row">
 <div class="col-md" markdown="1">
 #### Chair
@@ -55,43 +93,6 @@ Sophia Fergus
 <div class="col-md" markdown="1">
 * Lucy Duckworth
 * Russell Dunphy
-</div>
-</div>
-
-###### Photos from the 2018 WMAG AGM
-<div class="image-gallery row">
-<div class="col-md" markdown="1">
-
-![2018 AGM](/img/AGM-7.jpg)
-
-</div>
-<div class="col-md" markdown="1">
-
-![2018 AGM](/img/AGM-3.jpg)
-
-</div>
-<div class="col-md" markdown="1">
-
-![2018 AGM](/img/AGM-4.jpg)
-
-</div>
-</div>
-
-<div class="image-gallery row">
-<div class="col-md" markdown="1">
-
-![2018 AGM](/img/AGM-1.jpg)
-
-</div>
-<div class="col-md" markdown="1">
-
-![2018 AGM](/img/AGM-5.jpg)
-
-</div>
-<div class="col-md" markdown="1">
-
-![2018 AGM](/img/AGM-6.jpg)
-
 </div>
 </div>
 
