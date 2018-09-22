@@ -16,29 +16,83 @@ As life becomes ever more difficult for migrants across London, the UK and the w
 
 Walthamstow Migrants’ Action Group is governed by a Board of Trustees. You can read our constitution here.
 
-<table class="table table-bordered">
-<tbody>
-<tr>
-<th class="w-25">Chair</th>
-<td>Helen Taylor</td>
-</tr>
-<tr>
-<th>Vice Chair</th>
-<td>Douglas Saltmarshe</td>
-</tr>
-<tr>
-<th>Secretary</th>
-<td>Sophia Fergus</td>
-</tr>
-<tr>
-<th>Treasurer</th>
-<td>Rosie Carter-Rich</td>
-</tr>
-<tr>
-<th>Trustees</th>
-<td>Sarah Walker, Rod Holmes, Tommy Anderson, Amber Akram, Ulrike Schmidt, Norman Minter, Silvia Constantino</td>
-</tr>
-</tbody>
-</table>
+<div class="officers-list row">
+<div class="col-md" markdown="1">
+#### Chair
+Douglas Saltmarshe
+</div>
+<div class="col-md" markdown="1">
+#### Vice Chair
+Helen Taylor
+</div>
+<div class="col-md" markdown="1">
+#### Secretary
+Sophia Fergus
+</div>
+<div class="col-md" markdown="1">
+#### Treasurer
+...
+</div>
+</div>
+
+
+#### Trustees
+
+<div class="trustees-list row">
+<div class="col-md" markdown="1">
+* Sarah Walker
+* Rod Holmes
+* Silvia Constantino
+</div>
+<div class="col-md" markdown="1">
+* Tommy Anderson
+* Amber Akram
+</div>
+<div class="col-md" markdown="1">
+* Ulrike Schmidt
+* Norman Minter
+</div>
+<div class="col-md" markdown="1">
+* Lucy Duckworth
+* Russell Dunphy
+</div>
+</div>
+
+###### Photos from the 2018 WMAG AGM
+<div class="image-gallery row">
+<div class="col-md" markdown="1">
+
+![2018 AGM](/img/AGM-7.jpg)
+
+</div>
+<div class="col-md" markdown="1">
+
+![2018 AGM](/img/AGM-3.jpg)
+
+</div>
+<div class="col-md" markdown="1">
+
+![2018 AGM](/img/AGM-4.jpg)
+
+</div>
+</div>
+
+<div class="image-gallery row">
+<div class="col-md" markdown="1">
+
+![2018 AGM](/img/AGM-5.jpg)
+
+</div>
+<div class="col-md" markdown="1">
+
+![2018 AGM](/img/AGM-6.jpg)
+
+</div>
+<div class="col-md" markdown="1">
+
+![2018 AGM](/img/AGM-1.jpg)
+
+</div>
+</div>
 
 If you have any questions about who we are, what we do, how we work or how to get involved, you can <a href="/contact-us">contact us</a> in confidence at any time.

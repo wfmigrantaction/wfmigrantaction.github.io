@@ -36,3 +36,22 @@
 .jumbotron {
   border-radius: 0 !important;
 }
+
+h4 {
+  padding-bottom: 5px;
+  border-bottom: 1px solid #dadada;
+}
+
+.officers-list {
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+
+.trustees-list {
+  margin-bottom: 25px;
+  ul { list-style: none; padding-left: 0; }
+}
+
+.image-gallery img {
+  width: 100%;
+}
