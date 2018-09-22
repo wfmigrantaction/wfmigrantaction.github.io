@@ -80,17 +80,17 @@ Sophia Fergus
 <div class="image-gallery row">
 <div class="col-md" markdown="1">
 
+![2018 AGM](/img/AGM-1.jpg)
+
+</div>
+<div class="col-md" markdown="1">
+
 ![2018 AGM](/img/AGM-5.jpg)
 
 </div>
 <div class="col-md" markdown="1">
 
 ![2018 AGM](/img/AGM-6.jpg)
-
-</div>
-<div class="col-md" markdown="1">
-
-![2018 AGM](/img/AGM-1.jpg)
 
 </div>
 </div>
