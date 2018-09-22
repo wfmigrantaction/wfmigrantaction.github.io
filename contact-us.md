@@ -20,7 +20,7 @@ E17 4PY
 
 We are opposite Bus Stop BE. Click [here](https://tfl.gov.uk/maps?Input=Salvation+Army+Walthamstow%2C+London%2C+UK&InputGeolocation=51.590694427490234%2C-0.021134300157427788) for bus routes.
 
-Telephone: [07496 394 175](tel:07496394175)
+Telephone: [07496 394 175](tel:07496394175)  
 Email: [e17migrantscentre@gmail.com](mailto:e17migrantscentre@gmail.com)
 
 
