@@ -1,1 +1,1 @@
-# Walthamstow Migrants' Action Group website
+# Waltham Forest Migrant Action website

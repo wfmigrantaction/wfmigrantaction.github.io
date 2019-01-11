@@ -6,7 +6,7 @@ title: Home
 <div class="jumbotron p-3 p-md-5 text-white rounded bg-dark" style="background-image: url(img/AGM-0.jpg); background-position: center; height: 330px;">
 </div>
 
-Walthamstow Migrants’ Action Group is a small organisation that makes a big difference to the lives of some of Waltham Forest’s most marginalised residents. 
+Waltham Forest Migrant Action (previously Walthamstow Migrants' Action Group) is a small organisation that makes a big difference to the lives of some of Waltham Forest’s most marginalised residents. 
 
 Our main aims are:
 

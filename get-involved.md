@@ -4,7 +4,7 @@ title: Get Involved
 image: /img/get-involved.jpg
 ---
 
-Walthamstow Migrants’ Action Group is run entirely by volunteers, and we welcome contact from like-minded individuals who would like to get involved. 
+Waltham Forest Migrant Action is run entirely by volunteers, and we welcome contact from like-minded individuals who would like to get involved. 
 
 Volunteer vacancies are listed below. If you are interested in applying or would like more information, please get in touch by emailing us at [e17migrantscentre@gmail.com](e17migrantscentre@gmail.com), introducing yourself and outlining your interest in the role. 
 
@@ -29,6 +29,6 @@ We want to grow our organisation, and increasing our funds is central to this ai
 Download more information <a href="/resources/WMAG-Coordinator-Roles.pdf" target="_blank">here</a>.
 
 #### Vacancy - Volunteer Coordinator
-Walthamstow Migrants’ Action Group is entirely volunteer-run. We are looking for someone to join our Working Group - to be the main point of contact for our team of volunteers, respond to new volunteer enquiries, and to foster an environment where volunteers feel supported and listened to as valued members of the whole team.
+Waltham Forest Migrant Action is entirely volunteer-run. We are looking for someone to join our Working Group - to be the main point of contact for our team of volunteers, respond to new volunteer enquiries, and to foster an environment where volunteers feel supported and listened to as valued members of the whole team.
 
 Download more information <a href="/resources/WMAG-Coordinator-Roles.pdf" target="_blank">here</a>.

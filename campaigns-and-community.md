@@ -7,7 +7,7 @@ We are keen to gather stories for our public campaigns around migration issues, 
 
 
 #### Free English lessons for women
-All women with limited or no English are welcome to join these free, informal sessions, which take place during opening hours at the Walthamstow Migrants’ Support Centre. 
+All women with limited or no English are welcome to join these free, informal sessions, which take place during opening hours at the Waltham Forest Migrants’ Support Centre. 
 
 Lessons are offered every Friday, all year. Just drop in, or [get in touch](/contact-us) if you would like more information.
 

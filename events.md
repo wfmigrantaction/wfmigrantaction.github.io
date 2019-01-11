@@ -29,7 +29,7 @@ title: Events
 <div style="text-align:left; padding: 15px 0 25px 0;">
 <div class="fb-page" data-href="https://www.facebook.com/WalthamstowMigrantsActionGroup" data-tabs="events" data-width="1000" data-height="1000" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
 <blockquote cite="https://www.facebook.com/WalthamstowMigrantsActionGroup" class="fb-xfbml-parse-ignore">
-<a href="https://www.facebook.com/WalthamstowMigrantsActionGroup">Walthamstow Migrants&#039; Action Group</a>
+<a href="https://www.facebook.com/WalthamstowMigrantsActionGroup">Waltham Forest Migrant Action</a>
 <div style="padding: 25px 0;"><img src="/img/ajax-loader.gif" /></div>
 </blockquote>
 </div>
