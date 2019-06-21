@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img src="/img/welcome.jpeg" style="max-width: 100%; max-height: 330px;" />
+<img src="/img/welcome.jpeg" style="width: 100%; max-height: 330px;" />
 
 Waltham Forest Migrant Action (previously Walthamstow Migrants' Action Group) is a small organisation that makes a big difference to the lives of some of Waltham Forest’s most marginalised residents. 
 
