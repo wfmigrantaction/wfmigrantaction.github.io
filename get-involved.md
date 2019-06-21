@@ -6,7 +6,7 @@ image: /img/get-involved.jpg
 
 Waltham Forest Migrant Action is run entirely by volunteers, and we welcome contact from like-minded individuals who would like to get involved. 
 
-Volunteer vacancies are listed below. If you are interested in applying or would like more information, please get in touch by emailing us at [e17migrantscentre@gmail.com](e17migrantscentre@gmail.com), introducing yourself and outlining your interest in the role. 
+Volunteer vacancies are listed below. If you are interested in applying or would like more information, please get in touch by emailing us at [info@wfma.org.uk](info@wfma.org.uk), introducing yourself and outlining your interest in the role. 
 
 #### Vacancy - Trustee
 Our Board has vacancies for Trustees. We are looking for energetic, focused individuals who have skills to bring and whose values align with ours.

@@ -3,7 +3,7 @@ layout: default
 title: Campaigns and Community
 ---
 
-We are keen to gather stories for our public campaigns around migration issues, so if you are willing to share your story, please let us know at the Support Centre or by email at [migrantsactiongroup@gmail.com](mailto:migrantsactiongroup@gmail.com). We will always protect your anonymity.
+We are keen to gather stories for our public campaigns around migration issues, so if you are willing to share your story, please let us know at the Support Centre or by email at [info@wfma.org.uk](mailto:info@wfma.org.uk). We will always protect your anonymity.
 
 
 #### Free English lessons for women

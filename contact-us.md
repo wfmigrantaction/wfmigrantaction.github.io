@@ -6,8 +6,8 @@ title: Contact Us
 <div class="row">
 <div class="col-md" markdown="1">
 <ul class="list-inline" style="width: 100%;">
-  <li class="list-inline-item"><a href="mailto:migrantsactiongroup@gmail.com"><img src="/img/mail.svg" alt="Email" style="width: 50px;" /> Email</a></li>
-  <li class="list-inline-item"><a href="https://facebook.com/WalthamstowMigrantsActionGroup" target="_blank"><img src="/img/facebook.svg" alt="Facebook" style="width: 50px;" /> Facebook</a></li>
+  <li class="list-inline-item"><a href="mailto:info@wfma.org.uk"><img src="/img/mail.svg" alt="Email" style="width: 50px;" /> Email</a></li>
+  <li class="list-inline-item"><a href="https://facebook.com/WalthamForestMigrantAction" target="_blank"><img src="/img/facebook.svg" alt="Facebook" style="width: 50px;" /> Facebook</a></li>
   <li class="list-inline-item"><a href="https://twitter.com/e17migrants" target="_blank"><img src="/img/twitter.svg" alt="Twitter" style="width: 50px;" /> Twitter</a></li>
 </ul>
 <Br>
@@ -21,7 +21,7 @@ E17 4PY
 We are opposite Bus Stop BE. Click [here](https://tfl.gov.uk/maps?Input=Salvation+Army+Walthamstow%2C+London%2C+UK&InputGeolocation=51.590694427490234%2C-0.021134300157427788) for bus routes.
 
 Telephone: [07496 394 175](tel:07496394175)  
-Email: [e17migrantscentre@gmail.com](mailto:e17migrantscentre@gmail.com)
+Email: [info@wfma.org.uk](mailto:info@wfma.org.uk)
 
 
 </div>
