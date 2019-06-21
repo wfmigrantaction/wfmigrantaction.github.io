@@ -67,7 +67,9 @@ h4 {
 }
 
 .card-img-bottom {
-  margin: 15px;
-  width: calc(100% - 30px);
-  height: calc(100% - 30px);
+  max-width: calc(100% - 30px);
+  max-height: calc(100% - 30px);
+  width: 200px;
+  height: 200px;
+  margin: 0 auto 15px auto;
 }
