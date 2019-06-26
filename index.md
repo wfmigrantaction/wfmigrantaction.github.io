@@ -18,27 +18,14 @@ If you are interested in finding out more what we do or would like to <a href="/
 <hr>
 
 <div class="row mb-3">
-<div class="col-md-3">
-<h1 style="text-align:center;">
-  <a href="https://twitter.com/e17migrants" target="_blank"><img src="/img/twitter.svg" /></a>
-</h1>
-<a class="twitter-timeline" data-height="500" href="https://twitter.com/e17migrants?ref_src=twsrc%5Etfw">Tweets by e17migrants</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
 <div class="col-md-6">
 <h1 style="text-align:center;">
-  <img src="/img/stella.png" style="height: 40px; border-radius: 20px;"/>
+  <a href="https://twitter.com/WFMigrantAction" target="_blank"><img src="/img/twitter.svg" /></a>
 </h1>
-<blockquote class="blockquote">
-  <div>
-  Walthamstow Migrants’ Action Group speaks to the best instincts of our local community - helping to guide and support those who are in need of assistance wherever they come from as fellow residents of our area, to ensure that all are treated with dignity and goodwill. I am proud that Walthamstow continues to mean welcome in both word and practice in this way.
-  </div>
-  <footer class="blockquote-footer">
-    Stella Creasy, MP for Walthamstow
-  </footer>
-</blockquote>
+<a class="twitter-timeline" data-height="500" href="https://twitter.com/WFMigrantAction?ref_src=twsrc%5Etfw">Tweets by @WFMigrantAction</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
-
-<div class="col-md-3" style="text-align: right">
+<div class="col-md-6" style="text-align: right">
 <h1 style="text-align:center;">
   <a href="https://facebook.com/WalthamForestMigrantAction" target="_blank"><img src="/img/facebook.svg" /></a>
 </h1>
