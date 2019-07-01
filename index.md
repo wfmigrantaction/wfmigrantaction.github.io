@@ -13,7 +13,7 @@ Our main aims are:
 
 Through our <a href="/support-centre">Support Centre</a>, <a href="/campaigns-and-community">campaigning and community work</a>, and <a href="/events">events</a>, we proudly stand in support of all migrant members of our community. We believe no human being is 'illegal' and do not subscribe to the narrative of deserving vs. undeserving migrants. 
 
-If you are interested in finding out more what we do or would like to <a href="/get-involved">get involved</a>, <a href="/contact-us">get in touch</a>.
+If you are interested in finding out more what we do or would like to <a href="/get-involved">get involved</a>, <a href="/contact-us">get in touch</a>. You can also <a href="https://membermojo.co.uk/wfma/joinus" target="_blank">join us as a member.</a> Or if you are already a member, you can <a href="https://membermojo.co.uk/wfma/yourmembership" target="_blank">view your membership here</a>.
 
 <hr>
 

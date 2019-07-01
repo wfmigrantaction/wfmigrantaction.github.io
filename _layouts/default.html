@@ -59,19 +59,18 @@
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
-      <div id="navbarCollapse" class="collapse navbar-collapse py-1 mb-2 mt-2">
-        <nav class="nav d-flex justify-content-between">
-          <a href="/" {% unless current[1] %}class="py-2 active"{% else %}class="py-2 text-muted"{% endunless %}>Home</a>
-          <a href="/about" {% if current[1] == 'about.html' %}class="py-2 active"{% else %}class="py-2 text-muted"{% endif %}>About Us</a>
-          <a href="/support-centre" {% if current[1] == 'support-centre.html' %}class="py-2 active"{% else %}class="py-2 text-muted"{% endif %}>Support Centre</a>
-          <a href="/campaigns-and-community" {% if current[1] == 'campaigns-and-community.html' %}class="py-2 active"{% else %}class="py-2 text-muted"{% endif %}>Campaigns and Community</a>
-          <a href="/events" {% if current[1] == 'events.html' %}class="py-2 active"{% else %}class="py-2 text-muted"{% endif %}>Events</a>
-          <a href="/get-involved" {% if current[1] == 'get-involved.html' %}class="py-2 active"{% else %}class="py-2 text-muted"{% endif %}>Get Involved</a>
-          <a href="/contact-us" {% if current[1] == 'contact-us.html' %}class="py-2 active"{% else %}class="py-2 text-muted"{% endif %}>Contact Us</a>
-          <a style="background: #41a2d8; border-radius: 5px; color: #fff !important; padding: 0 15px;"
-            href="/donate" {% if current[1] == 'donate.html' %}class="py-2 active"{% else %}class="py-2 text-muted"{% endif %}>Donate</a>
-        </nav>
-      </div>
+        <div id="navbarCollapse" class="collapse navbar-collapse py-1 mt-2 mb-2">
+          <nav class="nav d-flex justify-content-between">
+            <a href="/" {% unless current[1] %}class="py-2 active"{% else %}class="py-2 text-muted"{% endunless %}>Home</a>
+            <a href="/about" {% if current[1] == 'about.html' %}class="py-2 active"{% else %}class="py-2 text-muted"{% endif %}>About Us</a>
+            <a href="/support-centre" {% if current[1] == 'support-centre.html' %}class="py-2 active"{% else %}class="py-2 text-muted"{% endif %}>Support Centre</a>
+            <a href="/campaigns-and-community" {% if current[1] == 'campaigns-and-community.html' %}class="py-2 active"{% else %}class="py-2 text-muted"{% endif %}>Campaigns and Community</a>
+            <a href="/events" {% if current[1] == 'events.html' %}class="py-2 active"{% else %}class="py-2 text-muted"{% endif %}>Events</a>
+            <a href="/get-involved" {% if current[1] == 'get-involved.html' %}class="py-2 active"{% else %}class="py-2 text-muted"{% endif %}>Get Involved</a>
+            <a href="/contact-us" {% if current[1] == 'contact-us.html' %}class="py-2 active"{% else %}class="py-2 text-muted"{% endif %}>Contact Us</a>
+            <a style="background: #F7A942; border-radius: 5px; color: #fff !important; padding: 0 15px;" href="/donate" {% if current[1] == 'donate.html' %}class="py-2 active"{% else %}class="py-2 text-muted"{% endif %}>Donate</a>
+          </nav>
+        </div>
       </div>
 
       {{ content }}
@@ -84,6 +83,15 @@
       <li class="list-inline-item"><a href="mailto:info@wfma.org.uk"><img src="/img/mail.svg" alt="Email" style="width: 50px;" /></a></li>
       <li class="list-inline-item"><a href="https://facebook.com/WalthamForestMigrantAction" target="_blank"><img src="/img/facebook.svg" alt="Facebook" style="width: 50px;" /></a></li>
       <li class="list-inline-item"><a href="https://twitter.com/e17migrants" target="_blank"><img src="/img/twitter.svg" alt="Twitter" style="width: 50px;" /></a></li>
+    </ul>
+
+    <ul class="list-inline" style="width: 100%; margin-top: 30px;">
+      <li class="list-inline-item">
+        <a style="" href="https://membermojo.co.uk/wfma/joinus" class="py-2 text-muted" target="_blank">Join us / renew</a>
+      </li>
+      <li class="list-inline-item">
+        <a style="" href="https://membermojo.co.uk/wfma/yourmembership" class="py-2 text-muted" target="_blank">View your membership</a>
+      </li>
     </ul>
 
       <p>
