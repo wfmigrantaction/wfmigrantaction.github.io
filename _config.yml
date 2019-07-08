@@ -34,7 +34,7 @@ defaults:
     values:
       image: true
 
-paginate: 2
+paginate: 3
 paginate_path: "/events/:num/"
 
 # Exclude from processing.
