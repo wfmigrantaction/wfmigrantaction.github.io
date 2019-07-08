@@ -3,6 +3,8 @@ layout: default
 title: Events
 ---
 
+pgintor is {{ paginator.page }}
+
 <div class="row mb-4">
 <div class="col-md">
 <h4>Past</h4>

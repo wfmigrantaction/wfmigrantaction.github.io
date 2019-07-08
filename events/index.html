@@ -1,0 +1,66 @@
+---
+layout: default
+title: Events
+---
+
+<div class="row mb-4">
+<div class="col-md">
+<h4>Past</h4>
+<br>
+{%- for p in paginator.posts -%}
+<h5>{{ p.title }}</h5>
+<small>{{ p.date | date_to_long_string }}</small>
+{{ p.content }}
+<img src="{{p.path | replace: '_posts/', '/img/events/' | replace: '.md', '.jpg' }}" alt="{{p.title}}" style="width: 100%;"/>
+<hr>
+{%- endfor -%}
+<nav aria-label="Event pagination">
+  <ul class="pagination">
+    {% if paginator.previous_page %}
+    <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | relative_url }}">Previous</a></li>
+    {% else %}
+    <li class="page-item disabled"><a class="page-link" tabindex="-1" href="#">Previous</a></li>
+    {% endif %}
+
+    {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <li class="page-item disabled"><a class="page-link" tabindex="-1" href="#">{{ page }}</a></li>
+    {% elsif page == 1 %}
+      <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | relative_url }}">{{ page }}</a></li>
+    {% else %}
+      <li class="page-item"><a class="page-link" href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a></li>
+    {% endif %}
+    {% endfor %}
+
+    {% if paginator.next_page %}
+    <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | relative_url }}">Next</a></li>
+    {% else %}
+    <li class="page-item disabled"><a class="page-link" tabindex="-1" href="{{ paginator.next_page_path | relative_url }}">Next</a></li>
+    {% endif %}
+  </ul>
+</nav>
+</div>
+<div class="col-md">
+<h4>Upcoming</h4>
+<div style="text-align: left;">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div style="text-align:left; padding: 15px 0 25px 0;">
+<div class="fb-page" data-href="https://www.facebook.com/WalthamForestMigrantAction" data-tabs="events" data-width="1000" data-height="1000" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+<blockquote cite="https://www.facebook.com/WalthamForestMigrantAction" class="fb-xfbml-parse-ignore">
+<a href="https://www.facebook.com/WalthamForestMigrantAction">Waltham Forest Migrant Action</a>
+<div style="padding: 25px 0;"><img src="/img/ajax-loader.gif" /></div>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+
+</div>
