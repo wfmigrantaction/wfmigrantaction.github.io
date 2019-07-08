@@ -1,0 +1,3 @@
+---
+title: Juli Szatmari Fundraiser
+---

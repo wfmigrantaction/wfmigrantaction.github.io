@@ -9,7 +9,7 @@ title: Events
 <br>
 {%- for p in paginator.posts -%}
 <h5>{{ p.title }}</h5>
-<small>{{ p.date | date_to_long_string }}</small>
+<small>{{ p.date | date: "%B %Y" }}</small>
 {{ p.content }}
 <img src="{{p.path | replace: '_posts/', '/img/events/' | replace: '.md', '.jpg' }}" alt="{{p.title}}" style="width: 100%;"/>
 <hr>
