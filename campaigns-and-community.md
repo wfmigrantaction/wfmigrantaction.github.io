@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Campaigns and Community
+title: Community
 ---
 
 We are keen to gather stories for our public campaigns around migration issues, so if you are willing to share your story, please let us know at the Support Centre or by email at [info@wfma.org.uk](mailto:info@wfma.org.uk). We will always protect your anonymity.
