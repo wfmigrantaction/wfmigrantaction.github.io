@@ -64,34 +64,24 @@ Douglas Saltmarshe
 Helen Taylor
 </div>
 <div class="col-md" markdown="1">
-#### Secretary
-Sophia Fergus
-</div>
-<div class="col-md" markdown="1">
 #### Treasurer
 Clive Bower
 </div>
 </div>
-
-
+<div class="officers-list row">
+<div class="col-md" markdown="1">
+#### Secretary
+Sophia Fergus
+</div>
+<div class="col-md" markdown="1">
+#### Minutes Secretary
+Norman Minter
+</div>
+<div class="col-md" markdown="1">
 #### Trustees
-
-<div class="trustees-list row">
-<div class="col-md" markdown="1">
-* Amber Akram
-* Silvia Constantino
-</div>
-<div class="col-md" markdown="1">
-* Lucy Duckworth
-* Russell Dunphy
-</div>
-<div class="col-md" markdown="1">
-* Rod Holmes
-* Shaukat Khan
-</div>
-<div class="col-md" markdown="1">
-* Norman Minter
-* Sarah Walker
+Sarah Walker<br>
+Lucy Duckworth<br>
+Phil Seddon<br>
 </div>
 </div>
 
