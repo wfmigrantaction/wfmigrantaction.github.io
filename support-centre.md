@@ -5,6 +5,14 @@ title: Support Centre
 
 <div class="row">
 <div class="col-md" markdown="1">
+
+<strong>
+<em>
+Christmas hours - we will be closed on the 27th December and the 3rd of January. The drop-in centre will resume normal hours from the 10th of January.
+</em>
+</strong>
+
+
 Our weekly Support Centre offers our migrant visitors free advice on immigration, accommodation and welfare issues, as well as signposting to other organisations that can help. We also provide a warm welcome, tea and biscuits, and opportunities to socialise and practise speaking English.
 
 Please note that **immigration advice is by appointment only**. To make an appointment, please visit the centre so we can take the details of your case and find an available time.
