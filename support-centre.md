@@ -6,13 +6,6 @@ title: Support Centre
 <div class="row">
 <div class="col-md" markdown="1">
 
-<strong>
-<em>
-Important - the support centre will be closed on Friday the 21st of February due to volunteer shortage. We will be open again from the following week.
-</em>
-</strong>
-
-
 Our weekly Support Centre offers our migrant visitors free advice on immigration, accommodation and welfare issues, as well as signposting to other organisations that can help. We also provide a warm welcome, tea and biscuits, and opportunities to socialise and practise speaking English.
 
 Please note that **immigration advice is by appointment only**. To make an appointment, please visit the centre so we can take the details of your case and find an available time.
