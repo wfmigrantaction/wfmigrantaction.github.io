@@ -14,5 +14,13 @@ Donate to Waltham Forest Migrant Action to help us achieve our mission of provid
 <p>
 Your donations make it possible for us to provide expert immigration law and housing advice in the Waltham Forest Migrant Support Centre.
 </p>
+<p>
+<strong>
+WFMA is working with the Hoe Street Covid-19 Mutual Aid group
+to help support vulnerable residents in Hoe Street ward during the pandemic.
+If your donation is for the mutual aid group please add a comment containing
+"MAG" when donating. Thank you!
+</strong>
+</p>
 </div>
 </div>
