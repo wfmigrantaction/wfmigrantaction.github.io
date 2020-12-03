@@ -14,11 +14,15 @@ title: Contact Us
 ##### Drop-in Support Centre
 10:00am-12:30pm every Friday  
 
-The Salvation Army  
-434 Forest Road  
-E17 4PY
+Blackhorse Road Baptist Church Hall  
+65 Blackhorse Road  
+E17 7AS  
 
-We are opposite Bus Stop BE. Click [here](https://tfl.gov.uk/maps?Input=Salvation+Army+Walthamstow%2C+London%2C+UK&InputGeolocation=51.590694427490234%2C-0.021134300157427788) for bus routes.
+Buses 158, 230 and W11  
+Bus stop Longfield Avenue  
+
+6 minute walk from Blackhorse Road Station   
+6 minute walk from St James Street Station  
 
 Telephone: [07496 394 175](tel:07496394175)  
 Email: [supportcentre@wfma.org.uk](mailto:supportcentre@wfma.org.uk)

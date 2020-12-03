@@ -16,19 +16,19 @@ Drop in and see us:
 
 10:00am-12:30pm every Friday  
 
-The Salvation Army  
-434 Forest Road  
-E17 4PY
+Blackhorse Road Baptist Church Hall  
+65 Blackhorse Road  
+E17 7AS  
 
-We are opposite Bus Stop BE. Click [here](https://tfl.gov.uk/maps?Input=Salvation+Army+Walthamstow%2C+London%2C+UK&InputGeolocation=51.590694427490234%2C-0.021134300157427788) for bus routes.
+Buses 158, 230 and W11  
+Bus stop Longfield Avenue  
+
+6 minute walk from Blackhorse Road Station   
+6 minute walk from St James Street Station  
 
 Telephone: [07496 394 175](tel:07496394175)  
 Email: [supportcentre@wfma.org.uk](mailto:supportcentre@wfma.org.uk)
 
 Thanks to Nihad Fathi of the [Refugee and Migrant Forum of Essex and London](http://www.ramfel.org.uk/wordpress/) and to Cassim Yacoobali of [Waltham Forest Immigration Bureau](http://www.wfib.org.uk/) for providing expert advice.
-</div>
-<div class="col-md">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2478.7744476888415!2d-0.023322784226956297!3d51.590697079648976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761de652e8515b%3A0x7072fdb848047fd4!2sThe+Salvation+Army!5e0!3m2!1sen!2suk!4v1537610014424" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-<img alt="Salvation Army" src="/img/salvation-army.png" style="width: 100%; margin: 15px 0;" />
 </div>
 </div>
