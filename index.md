@@ -3,6 +3,14 @@ layout: default
 title: Home
 ---
 
+<div style="margin-bottom: 15px">
+<a href="https://www.eventbrite.com/e/waltham-forest-migrant-action-summer-quiz-tickets-159304466949">
+<img src="/img/quiz.jpg" style="float: left; margin-right: 15px; margin-bottom: 15px;" />
+</a>
+<a href="https://www.eventbrite.com/e/waltham-forest-migrant-action-summer-quiz-tickets-159304466949">Tickets now available</a> for our summer quiz 29th July 8pm at The Chequers Pub.
+ – great prizes plus that warm tingly feeling you get when you have fun while raising money for a good cause!
+</div>
+
 <a href="/contact-us">
 <img src="/img/cta.jpg" style="width: 100%; max-height: 330px;" />
 </a>
