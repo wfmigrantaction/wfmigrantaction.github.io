@@ -17,47 +17,10 @@ As life becomes ever more difficult for migrants across London, the UK and the w
 Waltham Forest Migrant Action is governed by a Board of Trustees. You can read our constitution <a href="/resources/WMAG-Constitution.pdf" target="_blank">here</a>.
 
 
-#### Photos from the 2018 WMAG (now WFMA) AGM
-<div class="image-gallery row">
-<div class="col-md" markdown="1">
-
-![2018 AGM](/img/AGM-7.jpg)
-
-</div>
-<div class="col-md" markdown="1">
-
-![2018 AGM](/img/AGM-3.jpg)
-
-</div>
-<div class="col-md" markdown="1">
-
-![2018 AGM](/img/AGM-4.jpg)
-
-</div>
-</div>
-
-<div class="image-gallery row">
-<div class="col-md" markdown="1">
-
-![2018 AGM](/img/AGM-1.jpg)
-
-</div>
-<div class="col-md" markdown="1">
-
-![2018 AGM](/img/AGM-5.jpg)
-
-</div>
-<div class="col-md" markdown="1">
-
-![2018 AGM](/img/AGM-6.jpg)
-
-</div>
-</div>
-
 <div class="officers-list row">
 <div class="col-md" markdown="1">
 #### Chair
-Douglas Saltmarshe
+Norman Minter
 </div>
 <div class="col-md" markdown="1">
 #### Vice Chair
@@ -70,18 +33,12 @@ Clive Bower
 </div>
 <div class="officers-list row">
 <div class="col-md" markdown="1">
-#### Secretary
-Sophia Fergus
-</div>
-<div class="col-md" markdown="1">
-#### Minutes Secretary
-Norman Minter
-</div>
-<div class="col-md" markdown="1">
 #### Trustees
-Sarah Walker<br>
-Lucy Duckworth<br>
-Phil Seddon<br>
+Jean King<br/>
+Inbar Tamari<br/>
+Creina Lilburne<br/>
+Sophie Powell<br/>
+Luke Rooney<br/>
 </div>
 </div>
 

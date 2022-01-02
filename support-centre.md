@@ -29,6 +29,5 @@ Bus stop Longfield Avenue
 Telephone: [07496 394 175](tel:07496394175)  
 Email: [supportcentre@wfma.org.uk](mailto:supportcentre@wfma.org.uk)
 
-Thanks to Nihad Fathi of the [Refugee and Migrant Forum of Essex and London](http://www.ramfel.org.uk/wordpress/) and to Cassim Yacoobali of [Waltham Forest Immigration Bureau](http://www.wfib.org.uk/) for providing expert advice.
 </div>
 </div>
