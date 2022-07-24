@@ -3,29 +3,21 @@ layout: default
 title: Home
 ---
 
-<div style="border: 5px solid green; margin-bottom: 10px; padding: 10px;">
-<h1>Vaccine Clinic this Friday</h1>
-<p><strong>Friday 1st July 9:30am - 1:00pm</strong></p>
-<p>
-Blackhorse Road Baptist Church / Migrant Support Centre
-<br/>
-Pop-Up Vaccine Clinic
-<br/>
-First, Second and booster vaccines available for adults (18+)
-<br/>
-<br/>
-
-Blackhorse Road Baptist Church, 65 Blackhorse Road, London, E17 7AS
-<br/>
-<br/>
-Booking advised but not essential. <a href="https://outlook.office365.com/owa/calendar/BlackhorseRoadBaptistChurchVaccineClinic18@walthamforest.gov.uk/bookings/" target="_blank">
-Click here to book</a>.
-</p>
-</div>
-
-<a href="/contact-us">
+<a href="https://membermojo.co.uk/wfma/joinus" target="_blank">
 <img src="/img/cta.jpg" style="width: 100%; max-height: 330px;" />
 </a>
+
+<div style="border: 5px solid green; margin-bottom: 10px; padding: 10px;">
+  Want to learn English? <a href="/img/wf-esol.pdf" target="_blank">Waltham Forest Council can help you find a free course.</a>
+</div>
+
+<div style="border: 5px solid green; margin-bottom: 10px; padding: 10px;">
+Event: <a href="/img/migrant-support-information-event.pdf" target="_blank">Education support for migrant and refugee communities</a> - Tuesday 26 July 1pm-3pm
+</div>
+
+<div style="border: 5px solid green; margin-bottom: 10px; padding: 10px;">
+Event: <a href="/img/welcoming-wellbeing-walks.pdf" target="_blank">Welcoming Wellbeing Walks at Queen Elizabeth Olympic Park</a>
+</div>
 
 Waltham Forest Migrant Action is a small organisation that makes a big difference to the lives of some of Waltham Forest’s most marginalised residents. 
 
