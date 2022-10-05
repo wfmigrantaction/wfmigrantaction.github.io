@@ -11,14 +11,6 @@ title: Home
   Want to learn English? <a href="/img/wf-esol.pdf" target="_blank">Waltham Forest Council can help you find a free course.</a>
 </div>
 
-<div style="border: 5px solid green; margin-bottom: 10px; padding: 10px;">
-Event: <a href="/img/migrant-support-information-event.pdf" target="_blank">Education support for migrant and refugee communities</a> - Tuesday 26 July 1pm-3pm
-</div>
-
-<div style="border: 5px solid green; margin-bottom: 10px; padding: 10px;">
-Event: <a href="/img/welcoming-wellbeing-walks.pdf" target="_blank">Welcoming Wellbeing Walks at Queen Elizabeth Olympic Park</a>
-</div>
-
 Waltham Forest Migrant Action is a small organisation that makes a big difference to the lives of some of Waltham Forest’s most marginalised residents. 
 
 Our main aims are:
