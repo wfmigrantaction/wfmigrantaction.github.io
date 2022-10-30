@@ -6,6 +6,9 @@ title: Home
 <a href="https://membermojo.co.uk/wfma/joinus" target="_blank">
 <img src="/img/cta.jpg" style="width: 100%; max-height: 330px;" />
 </a>
+<div style="border: 5px solid green; margin-bottom: 10px; padding: 10px;">
+  Read: <a href="https://walthamforestecho.co.uk/syrian-refugee-facing-deportation-to-rwanda#article">Syrian refugee in Waltham Forest facing deportation to Rwanda</a>
+</div>
 
 <div style="border: 5px solid green; margin-bottom: 10px; padding: 10px;">
   Want to learn English? <a href="/img/wf-esol.pdf" target="_blank">Waltham Forest Council can help you find a free course.</a>
