@@ -3,6 +3,10 @@ layout: default
 title: Home
 ---
 
+<div style="border: 5px solid red; margin-bottom: 10px; padding: 10px;">
+  The support centre drop-in will be closed on the 23rd and 30th of December
+</div>
+
 <a href="https://membermojo.co.uk/wfma/joinus" target="_blank">
 <img src="/img/cta.jpg" style="width: 100%; max-height: 330px;" />
 </a>
